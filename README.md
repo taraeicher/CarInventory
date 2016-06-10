@@ -3,6 +3,7 @@ to store all the records. It searches the car records and writes matching ones t
 user’s selection.
 
 sample run:
+
 This program will find cars in the inventory based on a year. You will have a
 choice to get cars whose year is less than, greater than, or equal to the year
 you choose.
